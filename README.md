@@ -1,49 +1,59 @@
 # My Web Development Projects 🚀
 
-Welcome to my web development practice repository! This repository contains projects I have created while learning and practicing web development.
+Hi, I'm **Umar Ali**, an aspiring web developer learning by building practical projects.
+
+This repository contains my web development practice projects using HTML, CSS, JavaScript, and React.js.
 
 ## 📂 Projects
 
-### 1. Profile and Pricing Card
-A web design project featuring a profile card and pricing card, created to practice frontend design and styling.
+### 1. 🛍️ ShopSmart
+A React-based online shopping store.
 
-**Concepts practiced:**
-- HTML structure
-- CSS styling
-- Card layouts
-- Responsive design
+- Search products
+- Filter by category
+- Sort by price
+- View product details
+- Add and remove wishlist items
 
-### 2. Student Registration Form
-A React-based student registration form that allows users to enter their details and select a course.
+**Technologies:** React.js, JavaScript, CSS, Vite
 
-**Features:**
-- Full name and email input fields
-- Password input
-- Course selection dropdown
-- Form submission handling
-- Success message after registration
-- Reusable React components
+### 2. 🎓 Student Registration Form
+A React form for student registration.
 
-### 3. Counter App
-A simple counter application built with React.
+- Enter name and email
+- Enter password
+- Select a course
+- Display a success message
 
-**Features:**
+**Technologies:** React.js, JavaScript, CSS
+
+### 3. 🔢 Counter App
+A simple counter application.
+
 - Increase the counter
 - Decrease the counter
-- Reset the counter to zero
-- State management using `useState`
+- Reset the counter
 
-### 4. Tip Calculator
-A calculator that helps users calculate tips and divide bills.
+**Technologies:** React.js, JavaScript, CSS
 
-**Features:**
-- Enter the bill amount
-- Adjust the tip percentage
-- Select the number of people
-- Calculate the tip amount
-- Calculate the total bill
-- Calculate the amount each person pays
+### 4. 🧮 Tip Calculator
+A calculator for splitting bills and calculating tips.
 
+- Enter bill amount
+- Set tip percentage
+- Select number of people
+- Calculate total and per-person amounts
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 5. 🎨 Profile and Pricing Cards
+A frontend design project featuring profile and pricing cards.
+
+- Card layouts
+- CSS styling
+- Responsive design practice
+
+**Technologies:** HTML, CSS
 
 ## 🛠️ Technologies Used
 
@@ -54,25 +64,14 @@ A calculator that helps users calculate tips and divide bills.
 - Vite
 - Git and GitHub
 
-## 🎯 Learning Goals
+## 🎯 Goals
 
-Through these projects, I am practicing:
+- Improve my frontend development skills
+- Build more React projects
+- Learn API integration
+- Explore backend development
+- Create full-stack web applications
 
-- Building user interfaces
-- Creating reusable React components
-- Understanding props and the `useState` hook
-- Handling user input and form submission
-- Performing calculations with JavaScript
-- Styling web pages with CSS
-- Organizing and managing projects with GitHub
-
-## 🚀 Future Improvements
-
-I plan to continue improving these projects and add more features as I learn new web development concepts.
-
-## 👨‍💻 About
-
-This repository represents my learning journey in frontend web development. I am building practical projects to strengthen my coding skills and gain hands-on experience.
 
 ---
 
